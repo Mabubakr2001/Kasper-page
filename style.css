@@ -1005,10 +1005,10 @@ footer .container p span{
     }
 
     header .container nav ul li a{
-        display: block;
         padding: 20px;
         transition: .4s;
         cursor: default;
+        display: block !important;
     }
 
     header .container nav ul li a.active,
